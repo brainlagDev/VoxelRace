@@ -1,0 +1,570 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'ru' Physical Memory: 8134 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/UnityProjects/VoxelRace
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54202
+Successfully changed project path to: D:/UnityProjects/VoxelRace
+D:/UnityProjects/VoxelRace
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 92.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/UnityProjects/VoxelRace/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 580 Series (ID=0x67df)
+    Vendor:   
+    VRAM:     8171 MB
+    Driver:   27.20.12033.1007
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56396
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006543 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 120.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.441 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006016 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 158.07 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.477 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.13 seconds
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1628 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.7 MB.
+System memory in use after: 106.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2107.
+Total: 4.172178 ms (FindLiveObjects: 0.529467 ms CreateObjectMapping: 0.195556 ms MarkObjects: 3.241823 ms  DeleteObjects: 0.196044 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Prefabs/PlayerCars/ImbaVehicle.prefab
+  artifactKey: Guid(2750485edf58dda48b5256d5c33a3725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PlayerCars/ImbaVehicle.prefab using Guid(2750485edf58dda48b5256d5c33a3725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5de85fe466aaf692bdec156566fcd748') in 0.321064 seconds
+  Import took 0.357209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.391137 seconds.
+  path: Assets/Prefabs/PlayerCars/ImbaVehicle.prefab
+  artifactKey: Guid(2750485edf58dda48b5256d5c33a3725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PlayerCars/ImbaVehicle.prefab using Guid(2750485edf58dda48b5256d5c33a3725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5de85fe466aaf692bdec156566fcd748') in 0.036630 seconds
+  Import took 0.042639 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003570 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  7.357 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.80 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.02 ms.
+Unloading 1590 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.2 MB.
+System memory in use after: 108.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2117.
+Total: 4.431289 ms (FindLiveObjects: 0.563200 ms CreateObjectMapping: 0.138356 ms MarkObjects: 3.579645 ms  DeleteObjects: 0.142267 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 99.296131 seconds.
+  path: Assets/Prefabs/PlayerCars/ImbaVehicle.prefab
+  artifactKey: Guid(2750485edf58dda48b5256d5c33a3725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PlayerCars/ImbaVehicle.prefab using Guid(2750485edf58dda48b5256d5c33a3725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e876793b547add3de8a473a6ac98eb6') in 0.164093 seconds
+  Import took 0.193707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.558305 seconds.
+  path: Assets/Prefabs/PlayerCars/ImbaVehicle.prefab
+  artifactKey: Guid(2750485edf58dda48b5256d5c33a3725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PlayerCars/ImbaVehicle.prefab using Guid(2750485edf58dda48b5256d5c33a3725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94ee90b434031d8f2377f4545bf064e4') in 0.050635 seconds
+  Import took 0.065095 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001999 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.97 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.540 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1590 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.2 MB.
+System memory in use after: 108.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2121.
+Total: 3.440312 ms (FindLiveObjects: 0.404311 ms CreateObjectMapping: 0.148622 ms MarkObjects: 2.734845 ms  DeleteObjects: 0.142756 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002185 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.13 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.01 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.049 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.92 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1590 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.2 MB.
+System memory in use after: 108.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2124.
+Total: 4.479689 ms (FindLiveObjects: 0.593511 ms CreateObjectMapping: 0.181378 ms MarkObjects: 3.510223 ms  DeleteObjects: 0.186756 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002237 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.16 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.711 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1637 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 110.8 MB.
+System memory in use after: 110.3 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2161.
+Total: 5.068312 ms (FindLiveObjects: 0.646311 ms CreateObjectMapping: 0.118311 ms MarkObjects: 3.458889 ms  DeleteObjects: 0.836978 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 950.026259 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9f838aa9920f0a87f0d9c9c00e166a9') in 0.611689 seconds
+  Import took 0.628201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+  artifactKey: Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat using Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d9fcbcb84b37b887c31e305afb13524') in 0.207220 seconds
+  Import took 0.223898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4537c845667f4fa7a13ced69bf8f583b') in 0.121251 seconds
+  Import took 0.133390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9f838aa9920f0a87f0d9c9c00e166a9') in 0.066477 seconds
+  Import took 0.073267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000819 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4537c845667f4fa7a13ced69bf8f583b') in 0.026428 seconds
+  Import took 0.032153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f45b531e2dbacb6e4a37e1e6014cda26') in 0.107899 seconds
+  Import took 0.119855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001145 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f45b531e2dbacb6e4a37e1e6014cda26') in 0.091367 seconds
+  Import took 0.097906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.861967 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Anton.ttf
+  artifactKey: Guid(997a43b767814dd0a7642ec9b78cba41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Anton.ttf using Guid(997a43b767814dd0a7642ec9b78cba41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43c2d2dcb906b0eb46da84215a11aca2') in 0.056234 seconds
+  Import took 0.088234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold.ttf
+  artifactKey: Guid(c9f6d0e7bc8541498c9a4799ba184ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold.ttf using Guid(c9f6d0e7bc8541498c9a4799ba184ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '209d470b04a0eac4707fc7887b011a9c') in 0.054163 seconds
+  Import took 0.066366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf
+  artifactKey: Guid(4beb055f07aaff244873dec698d0363e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf using Guid(4beb055f07aaff244873dec698d0363e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd19f8d94f1c853b29f30097e4a6a8f2') in 0.039482 seconds
+  Import took 0.052708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Electronic Highway Sign.TTF
+  artifactKey: Guid(8a2b9e2a607dd2143b58c44bc32410b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Electronic Highway Sign.TTF using Guid(8a2b9e2a607dd2143b58c44bc32410b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e81917ea79ae73691369d4d201bf0ccf') in 0.038944 seconds
+  Import took 0.048117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b8ebe28efa30afa962aaddc943e1fd4') in 0.037158 seconds
+  Import took 0.043828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers.ttf
+  artifactKey: Guid(5dd49b3eacc540408c98eee0de38e0f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers.ttf using Guid(5dd49b3eacc540408c98eee0de38e0f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '610177177c57e348c3ab370963c0fd2e') in 0.028555 seconds
+  Import took 0.041434 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002004 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.010 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.80 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1637 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.6 MB.
+System memory in use after: 111.2 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2203.
+Total: 8.108712 ms (FindLiveObjects: 0.577867 ms CreateObjectMapping: 0.200444 ms MarkObjects: 4.186845 ms  DeleteObjects: 3.134756 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 496.209978 seconds.
+  path: Assets/Scenes/Racing.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Racing.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88322aac5277a3f07b4fdea258e2fc99') in 0.047278 seconds
+  Import took 0.065332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 144.622149 seconds.
+  path: Assets/Scenes/MainMenu.unity
+  artifactKey: Guid(42b86ea98d6153e4a9f87e453aa116c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MainMenu.unity using Guid(42b86ea98d6153e4a9f87e453aa116c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d5a492d31114b6b496200ff9449667f') in 0.017058 seconds
+  Import took 0.028219 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009176 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.451 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.14 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1636 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.6 MB.
+System memory in use after: 111.1 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2206.
+Total: 5.830979 ms (FindLiveObjects: 0.638000 ms CreateObjectMapping: 0.244444 ms MarkObjects: 4.178045 ms  DeleteObjects: 0.761689 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 277.220040 seconds.
+  path: Assets/Audio/LoFiAudios
+  artifactKey: Guid(213306606ffee954ba6659be866fdbe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/LoFiAudios using Guid(213306606ffee954ba6659be866fdbe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f71388b6cd57cc76d90788a617447ea') in 0.024197 seconds
+  Import took 0.034273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003546 seconds.
+  path: Assets/Audio/LoFiAudios
+  artifactKey: Guid(213306606ffee954ba6659be866fdbe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/LoFiAudios using Guid(213306606ffee954ba6659be866fdbe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f71388b6cd57cc76d90788a617447ea') in 0.004833 seconds
+  Import took 0.010858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.083675 seconds.
+  path: Assets/Audio/LoFiAudios/barradeen-i-cant-take-my-eyes-out-of-you.mp3
+  artifactKey: Guid(03f99f2a0a79f2147afadec926bfe7d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/LoFiAudios/barradeen-i-cant-take-my-eyes-out-of-you.mp3 using Guid(03f99f2a0a79f2147afadec926bfe7d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32006c81d2241593f92a5f13a558d5aa') in 0.193219 seconds
+  Import took 0.219612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.762298 seconds.
+  path: Assets/Audio/LoFiAudios/barradeen-the-girl-i-havent-met.mp3
+  artifactKey: Guid(1efe1e89b86760942b4e767b6eb72641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/LoFiAudios/barradeen-the-girl-i-havent-met.mp3 using Guid(1efe1e89b86760942b4e767b6eb72641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb301c46a0e0ab450b7bc99c8df20b0e') in 0.046922 seconds
+  Import took 0.086600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.576897 seconds.
+  path: Assets/Audio/LoFiAudios/barradeen-first-girl-talking-to-me.mp3
+  artifactKey: Guid(cd072c78db86fe44f982bbf07c8a10a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/LoFiAudios/barradeen-first-girl-talking-to-me.mp3 using Guid(cd072c78db86fe44f982bbf07c8a10a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17aeaf7a913d2fbc51f751fd9b41280f') in 0.053201 seconds
+  Import took 0.086610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.603167 seconds.
+  path: Assets/Audio/LoFiAudios/barradeen-i-fell-in-love-with-a-girl.mp3
+  artifactKey: Guid(fc926420ba74a3048b540b5b03fb7283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/LoFiAudios/barradeen-i-fell-in-love-with-a-girl.mp3 using Guid(fc926420ba74a3048b540b5b03fb7283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e2280546dfc4a677df13a17884be213') in 0.080278 seconds
+  Import took 0.114656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.730610 seconds.
+  path: Assets/Audio/LoFiAudios/extenz-life.mp3
+  artifactKey: Guid(9feb39edef7b8384daed8e15f3cd6ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/LoFiAudios/extenz-life.mp3 using Guid(9feb39edef7b8384daed8e15f3cd6ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e9ffc50285eab4175f3822dda97de8c') in 0.067525 seconds
+  Import took 0.089007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.585344 seconds.
+  path: Assets/Audio/LoFiAudios/le-gang-i-dont-need-u-2-say-anything.mp3
+  artifactKey: Guid(5d212cfdc4c4c7840a69297bfb635b5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/LoFiAudios/le-gang-i-dont-need-u-2-say-anything.mp3 using Guid(5d212cfdc4c4c7840a69297bfb635b5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f383dfa05f07803646c3f3916dee4c35') in 0.034798 seconds
+  Import took 0.067931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013834 seconds.
+  path: Assets/Audio/LoFiAudios/le-gang-i-dont-need-u-2-say-anything.mp3
+  artifactKey: Guid(5d212cfdc4c4c7840a69297bfb635b5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/LoFiAudios/le-gang-i-dont-need-u-2-say-anything.mp3 using Guid(5d212cfdc4c4c7840a69297bfb635b5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f383dfa05f07803646c3f3916dee4c35') in 0.040612 seconds
+  Import took 0.050206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.085581 seconds.
+  path: Assets/Audio/LoFiAudios/friendzoned-antidepresseur.mp3
+  artifactKey: Guid(209d8ace8e962174d876041b89b459f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/LoFiAudios/friendzoned-antidepresseur.mp3 using Guid(209d8ace8e962174d876041b89b459f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36ca1753eee8e3660b74aea217a82681') in 0.042988 seconds
+  Import took 0.063083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.414190 seconds.
+  path: Assets/Audio/LoFiAudios/ghostrifter-hot-coffee.mp3
+  artifactKey: Guid(fcc7fcb6abf9a8b4c83e48810ecfee5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/LoFiAudios/ghostrifter-hot-coffee.mp3 using Guid(fcc7fcb6abf9a8b4c83e48810ecfee5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bce8c4206d10a66595a5e002ff83edae') in 0.042960 seconds
+  Import took 0.059009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.256037 seconds.
+  path: Assets/Audio/LoFiAudios/barradeen-walking-together.mp3
+  artifactKey: Guid(712a9a01b1c6230489d29e55b82ea133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/LoFiAudios/barradeen-walking-together.mp3 using Guid(712a9a01b1c6230489d29e55b82ea133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de556c811232ba4965cf8c73f4199325') in 0.123335 seconds
+  Import took 0.144889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 91.002044 seconds.
+  path: Assets/Audio/LoFiAudios/Eletrosamba-Quincas-Moreira-безмятежное.mp3
+  artifactKey: Guid(b89e4726e49c1eb4a917f94a5b1eeab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/LoFiAudios/Eletrosamba-Quincas-Moreira-безмятежное.mp3 using Guid(b89e4726e49c1eb4a917f94a5b1eeab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70664750481df29d410134cc24af4910') in 0.060610 seconds
+  Import took 0.078178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.041361 seconds.
+  path: Assets/Audio/LoFiAudios/Love_or_Lust-Quincas-Moreira-романтическое.mp3
+  artifactKey: Guid(a46c5c096d642fa4492d539deeaf91f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/LoFiAudios/Love_or_Lust-Quincas-Moreira-романтическое.mp3 using Guid(a46c5c096d642fa4492d539deeaf91f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '301756c81666dc930870ab25ec3e76f2') in 0.042600 seconds
+  Import took 0.076525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.931025 seconds.
+  path: Assets/Audio/LoFiAudios/Almost_A_Year_Ago-John-Deley-and-the-41-Players-печальное.mp3
+  artifactKey: Guid(e2debcec72d837645afc0857b6b0c7dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/LoFiAudios/Almost_A_Year_Ago-John-Deley-and-the-41-Players-печальное.mp3 using Guid(e2debcec72d837645afc0857b6b0c7dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2faa297bbfb69b8d43eb116d85b75143') in 0.052798 seconds
+  Import took 0.068177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.905820 seconds.
+  path: Assets/Audio/LoFiAudios/Backwoods_BBQ-Chris-Haugen-мрачное.mp3
+  artifactKey: Guid(d250f24c262ba9d4b968a4fa9e41f0ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/LoFiAudios/Backwoods_BBQ-Chris-Haugen-мрачное.mp3 using Guid(d250f24c262ba9d4b968a4fa9e41f0ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20d73d22fa29672d361aedbcd6a7ffde') in 0.034429 seconds
+  Import took 0.052662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008731 seconds.
+  path: Assets/Audio/LoFiAudios/Backwoods_BBQ-Chris-Haugen-мрачное.mp3
+  artifactKey: Guid(d250f24c262ba9d4b968a4fa9e41f0ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/LoFiAudios/Backwoods_BBQ-Chris-Haugen-мрачное.mp3 using Guid(d250f24c262ba9d4b968a4fa9e41f0ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20d73d22fa29672d361aedbcd6a7ffde') in 0.038407 seconds
+  Import took 0.046291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.678350 seconds.
+  path: Assets/Audio/LoFiAudios/Jazz_Mango-Joey-Pecoraro-танцевальная.mp3
+  artifactKey: Guid(8fdf372f3954d3d49a6f1078bf8a9533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/LoFiAudios/Jazz_Mango-Joey-Pecoraro-танцевальная.mp3 using Guid(8fdf372f3954d3d49a6f1078bf8a9533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff902a4fc14900f3754ff51d70f23106') in 0.039178 seconds
+  Import took 0.048611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 156.309918 seconds.
+  path: Assets/Scenes/Racing.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Racing.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd71aa4737b867874197004466c9c09bc') in 0.016291 seconds
+  Import took 0.036703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.523219 seconds.
+  path: Assets/Scenes/MainMenu.unity
+  artifactKey: Guid(42b86ea98d6153e4a9f87e453aa116c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MainMenu.unity using Guid(42b86ea98d6153e4a9f87e453aa116c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '844975e3c38bb4b181a7650d2d3bbe4b') in 0.004687 seconds
+  Import took 0.030631 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002068 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.866 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1636 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.7 MB.
+System memory in use after: 111.2 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2212.
+Total: 4.992045 ms (FindLiveObjects: 0.442445 ms CreateObjectMapping: 0.131511 ms MarkObjects: 3.673512 ms  DeleteObjects: 0.732356 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.5 MB.
+System memory in use after: 79.1 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2212.
+Total: 5.286356 ms (FindLiveObjects: 0.634089 ms CreateObjectMapping: 0.274267 ms MarkObjects: 3.597734 ms  DeleteObjects: 0.770978 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.5 MB.
+System memory in use after: 79.1 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2212.
+Total: 5.184667 ms (FindLiveObjects: 0.506000 ms CreateObjectMapping: 0.209244 ms MarkObjects: 3.671556 ms  DeleteObjects: 0.790533 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
